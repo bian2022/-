@@ -4,13 +4,13 @@ permalink: /websitemap.html
 
 # 网站导航
 
-![image](https://user-images.githubusercontent.com/102907913/173813879-656c5d94-b9f1-485f-8804-5240d8db3365.png)
 
-**[首页](https://corestudi0.github.io/chs)**
 
-**[新闻?](https://corestudionews.github.io)**
+**[首页](https://bian2022.github.io/chs)**
 
-**[赞助列表](/sponsors)**
+**[新闻?](https://bian2022.github.io)**
+
+
 
 **WebAPP**
 
