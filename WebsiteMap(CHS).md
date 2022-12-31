@@ -8,10 +8,6 @@ permalink: /websitemap.html
 
 **[首页](https://bian2022.github.io/chs)**
 
-**[新闻?](https://bian2022.github.io)**
-
-
-
 
 -[COVID-19 疫情地图](/covid19map.html)
 
