@@ -12,7 +12,6 @@ permalink: /websitemap.html
 
 
 
-**WebAPP**
 
 -[COVID-19 疫情地图](/covid19map.html)
 
